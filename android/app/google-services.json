@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "837171897048",
+    "project_id": "beauti-74413",
+    "storage_bucket": "beauti-74413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837171897048:android:7314fdf6dce4a0f2bfadad",
+        "android_client_info": {
+          "package_name": "com.kzn.beauti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837171897048-87jvhoiv8gkl92lmi8m72dcvjnmil73a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.beauti",
+            "certificate_hash": "e17daea38df4a03ba76494856f8094fe5d27d6f8"
+          }
+        },
+        {
+          "client_id": "837171897048-u8m4ksh4ud9rg1npu34obne7k7qejjgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9dd_MSHqXQmZcGHlWyXyxEoYEK17Pjcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837171897048-u8m4ksh4ud9rg1npu34obne7k7qejjgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
